@@ -1,0 +1,8 @@
+Fitur2 Baru
+-Ionic framework android
+-Angular js insert ke database local (nembak ip), php filenya di folder data (ada di dalam folder ini)
+-Form insert
+-Konek database
+-Android deploy build apk
+-Input type
+-Submit button
